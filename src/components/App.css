@@ -1,0 +1,58 @@
+
+
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 200;
+  padding: 30px;
+}
+
+
+#mainNavbar .navbar-brand {
+  color: white;
+  font-size: 2.0rem;
+  font-weight: 400;
+}
+
+
+#mainNavbar .nav-link {
+  color:#3b8d99;
+}
+
+#mainNavbar .nav-link:hover {
+  color: pink;
+  transform: skew(-10deg);
+}
+
+.navbar {
+  padding: 20px;
+  background-color: black;
+}
+
+
+.form {
+  display: flex;
+  padding-top: 60px;
+  margin-left: 38%;
+  justify-content: center;
+  width: 300px;
+}
+
+.usersearch {
+  width: 300px;
+}
+
+.image {
+  height: 300px;
+}
+
+.image1 {
+  height: 300px;
+}
+
+.player2 {
+  width: 300px;
+}
+
+.player1 {
+  width: 300px;
+}
