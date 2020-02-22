@@ -1,0 +1,214 @@
+body {
+  background: black;
+  font-family: "Nunito", sans-serif;
+
+}
+
+
+#mainNavbar {
+  font-size: 1.4rem;
+  font-weight: 100;
+}
+
+
+#mainNavbar .navbar-brand {
+  color: white;
+  font-size: 2.0rem;
+  font-weight: 500;
+}
+
+.navbar.scrolled {
+	  background: linear-gradient(35deg,#FFCCCC,#CCFFFF);
+	  transition: background 500ms;
+	  
+}
+
+#mainNavbar .nav-link {
+	color: #666666;
+}
+
+#mainNavbar .nav-link:hover {
+  color: white;
+  transform: skew(-10deg);
+}
+
+.content{
+    text-align: center;
+    padding-top: 300px;
+    text-shadow: 0px 4px 3px rgba(0,0,,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+    padding-bottom: 300px;
+}
+
+h1, h3 {
+    color: white;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 4.5em;
+    font-family: "Nunito", sans-serif;
+}
+
+
+/*hr {
+    width: 800px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+*/
+
+/*#about {
+	color: #666666;
+	background: #E5E5E5;
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 100px;
+	
+}*/
+
+h2 {
+	color: white;
+}
+
+
+#home {
+	text-align: center;
+	padding-bottom: 100px;
+	padding-top: 50px;
+}
+
+#news {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#fixtures
+{
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 50px;
+
+}
+
+#stats {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 200px;
+
+}
+
+.card {
+	text-align: center;
+	margin: auto;
+
+}
+
+#stat {
+	text-align: center;
+	padding-bottom: 100px;
+	padding-top: 100px;
+
+}
+
+#carousel {
+	height: 350px;
+	width: max;
+}
+
+/*
+.progress-bar {
+	background: #192033;
+
+}
+
+.progress {
+	height: 5px;
+
+}
+
+.clearfix {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+
+
+#education {
+	color: #666666;
+	background: #E5E5E5;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 210px;
+	
+}
+
+
+#freelance {
+	padding-top: 40px;
+	padding-bottom: 40px
+}
+
+#contact {
+	color: #666666;
+	background: #E5E5E5;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 90px;
+	
+}
+
+
+.btn-outline-custom {
+	background-color: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	letter-spacing: 1px;
+	transition: all 0.5s;
+	font-size: 15px;
+}
+
+.btn-rounded {
+    border-radius: 30px;
+}
+
+.btn {
+    padding: 12px 26px;
+}
+
+
+.btn:hover {
+	background: white;
+	color: black;
+}*/
+
+/*#home {
+	background: linear-gradient(35deg,#434343,#000000);
+  
+}*/
+
+/*#freelance {
+	background: linear-gradient(35deg,#434343,#000000);
+ 
+}*/
+
+/*
+.border {
+	border: 5px dashed white;
+	border-radius: 10px;
+}
+
+*/
+
+/*.bg-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}*/
